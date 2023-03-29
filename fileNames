@@ -1,0 +1,18 @@
+total 72
+drwxr-xr-x  3 root root   277 Mar 29 12:45 .
+drwxr-xr-x 15 root root  4096 Mar 29 11:57 ..
+-rw-r--r--  1 root root     0 Mar 29 12:45 fileNames
+-rw-r--r--  1 root root  4018 Mar 29 11:57 functions1.c
+-rw-r--r--  1 root root  4046 Mar 29 11:57 functions2.c
+-rw-r--r--  1 root root  4074 Mar 29 11:57 functions.c
+-rw-r--r--  1 root root   734 Mar 29 12:30 get_flags.c
+-rw-r--r--  1 root root   729 Mar 29 12:36 get_precision.c
+-rw-r--r--  1 root root   502 Mar 29 12:24 get_size.c
+drwxr-xr-x  8 root root   198 Mar 29 12:03 .git
+-rw-r--r--  1 root root  1204 Mar 29 11:57 main.c
+-rw-r--r--  1 root root  3520 Mar 29 11:57 main.h
+-rw-r--r--  1 root root  1405 Mar 29 11:57 _printf.c
+-rw-r--r--  1 root root  4996 Mar 29 11:57 README.md
+-rw-r--r--  1 root root 12288 Mar 29 11:57 .README.md.swp
+-rw-r--r--  1 root root  1730 Mar 29 12:31 utils.c
+-rw-r--r--  1 root root  6560 Mar 29 12:26 write_handlers.c
